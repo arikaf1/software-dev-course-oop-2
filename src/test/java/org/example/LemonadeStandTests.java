@@ -74,8 +74,6 @@ public class LemonadeStandTests {
         assertEquals(1, lemonadeStand.getIce());
         assertEquals(0, lemonadeStand.getMoney(), 0.01);
     }
-
-    /*
     @Test
     public void testSellDiscountedLemonade() {
         LemonadeStand lemonadeStand = new LemonadeStand();
@@ -88,5 +86,4 @@ public class LemonadeStandTests {
         double discount = normalPrice * 0.25;
         assertEquals(normalPrice - discount, lemonadeStand.getMoney(), 0.01);
   }
-  */
 }
