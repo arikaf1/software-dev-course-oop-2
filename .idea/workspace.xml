@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="303ccc50-aa5e-4f54-be84-fa30f99f558a" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Lemonade.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/Lemonade.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/LemonadeStand.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/LemonadeStand.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/LemonadeStandTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/LemonadeStandTests.java" afterDir="false" />
-    </list>
+    <list default="true" id="303ccc50-aa5e-4f54-be84-fa30f99f558a" name="Changes" comment="commit all changes" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -37,6 +32,65 @@
     "accountId": "b7bb9aec-5040-4583-a6e8-10d5cdb92388"
   }
 }]]></component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.0030938122528277" />
+      <entry key="MS500" value="1.544250595032929" />
+      <entry key="S2" value="3.2689479405022457" />
+      <entry key="S5" value="4.168933286360895" />
+      <entry key="S10" value="4.556638083067714" />
+      <entry key="S30" value="4.8455072997572906" />
+      <entry key="S60" value="4.9218804893071795" />
+      <entry key="M2" value="4.960719234495125" />
+      <entry key="M5" value="4.984234299045323" />
+      <entry key="M10" value="4.992108220862807" />
+      <entry key="M15" value="4.994736827567902" />
+      <entry key="M30" value="4.9973674200645295" />
+      <entry key="H1" value="4.998683461499395" />
+      <entry key="H2" value="4.9993416686035985" />
+      <entry key="H4" value="4.999670818763663" />
+      <entry key="D1" value="4.9999451343024" />
+      <entry key="W1" value="4.9999921619903445" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="0.0" />
+      <entry key="S2" value="0.0" />
+      <entry key="S5" value="0.0" />
+      <entry key="S10" value="0.0" />
+      <entry key="S30" value="0.0" />
+      <entry key="S60" value="0.0" />
+      <entry key="M2" value="0.0" />
+      <entry key="M5" value="0.0" />
+      <entry key="M10" value="0.0" />
+      <entry key="M15" value="0.0" />
+      <entry key="M30" value="0.0" />
+      <entry key="H1" value="0.0" />
+      <entry key="H2" value="0.0" />
+      <entry key="H4" value="0.0" />
+      <entry key="D1" value="0.0" />
+      <entry key="W1" value="0.0" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.9489452094280173" />
+      <entry key="MS500" value="1.5260577570632639" />
+      <entry key="S2" value="3.2585741443061766" />
+      <entry key="S5" value="4.16355517991152" />
+      <entry key="S10" value="4.553683835368698" />
+      <entry key="S30" value="4.844456636281748" />
+      <entry key="S60" value="4.921346441054934" />
+      <entry key="M2" value="4.960449993797954" />
+      <entry key="M5" value="4.984126065925002" />
+      <entry key="M10" value="4.992054014420677" />
+      <entry key="M15" value="4.994700669935684" />
+      <entry key="M30" value="4.9973493312387545" />
+      <entry key="H1" value="4.9986744145826645" />
+      <entry key="H2" value="4.999337144519095" />
+      <entry key="H4" value="4.999668556564854" />
+      <entry key="D1" value="4.999944757247519" />
+      <entry key="W1" value="4.999992108124829" />
+    </decayedShown>
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 5
 }</component>
@@ -118,5 +172,9 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit all changes" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit all changes" />
   </component>
 </project>
